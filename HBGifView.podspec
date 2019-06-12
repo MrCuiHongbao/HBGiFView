@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'HBGifView'
   s.version          = '0.0.1'
-  s.summary          = 'A short description of HBGifView.'
+  s.summary          = '一个播放gif的视图，方便播放gif使用.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -30,7 +30,7 @@ TODO: HBGifView is playing gif picture.  it is according to the gif file propert
 
   s.ios.deployment_target = '8.0'
   s.requires_arc = true
-  s.source_files = 'HBGifView/Classes/**/*.{h,m}'
+  s.source_files = 'HBGifView/Classes/*.{h,m}'
   
   #s.resource_bundles = {
       #'HBGifView' => ['HBGifView/Assets/*.*']
