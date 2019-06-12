@@ -22,7 +22,7 @@ pod 'HBGifView'
 
 ## Author
 
-MrCuiHongbao, cuihongbao@jd.com
+MrCuiHongbao, 675282505@qq.com
 
 ## License
 
