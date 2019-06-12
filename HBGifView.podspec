@@ -29,8 +29,8 @@ TODO: HBGifView is playing gif picture.  it is according to the gif file propert
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
-
-  s.source_files = 'HBGifView/Classes/**/*.*'
+  s.requires_arc = true
+  s.source_files = 'HBGifView/Classes/**/*.{h,m}'
   
   #s.resource_bundles = {
       #'HBGifView' => ['HBGifView/Assets/*.*']
