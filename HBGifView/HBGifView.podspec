@@ -18,19 +18,19 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+TODO: HBGifView is playing gif picture.  it is according to the gif file property.
                        DESC
 
   s.homepage         = 'https://github.com/MrCuiHongbao/HBGifView'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'MrCuiHongbao' => 'cuihongbao@jd.com' }
+  s.author           = { 'MrCuiHongbao' => '675282505@qq.com' }
   s.source           = { :git => 'https://github.com/MrCuiHongbao/HBGifView.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
 
-  s.source_files = 'HBGifView/Classes/**/*'
+  s.source_files = 'HBGifView/Classes/**/*.*'
   
   #s.resource_bundles = {
       #'HBGifView' => ['HBGifView/Assets/*.*']
